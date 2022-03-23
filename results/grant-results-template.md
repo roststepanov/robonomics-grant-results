@@ -2,6 +2,8 @@
 
 > This document will contain information about final results obtained during the work on the Robonomics Grant. First of all, you should pin your proven or external results (the **Deliverable** section), which was shown publicly. These can be reports, scientific articles, programs, repositories, modules, launch guides, blog posts, videos, etc. After that, you can discribe your internal results like new ideas, thoughts, plans, concepts, final conclusions, possible future developments, etc., in the **Findings** section.
 
+> You might want to upload files with results. To do this, create a subdirectory in the `/src` directory and name it similar to the `.md` file of your proposal. In this subdirectory you can store any files required for your final report. Do not forget to provide a link to these files.
+
 > Only the GitHub account, which is responsible for the pull request of the accepted proposal is allowed to submit results.
 
 > Comments in the lines starting with a `>` can be deleted. 
