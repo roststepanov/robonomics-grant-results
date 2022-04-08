@@ -7,13 +7,6 @@
 * **Project Name:** Drone selfie
 * **Proposal**: [here](https://github.com/airalab/robonomics-grant-program/tree/main/proposals/ds.md)
 
----
-
-## Grant Diary no. N
-
-* **Date**: XX.XX.2021
-
-> You can briefly describe the progress made on the project, share intermediate results (code, experiments, logs), or simply present thoughts and ideas about the project. The style of the diary is up to you. 
 
 ---
 
@@ -23,7 +16,7 @@
 * Immersion of the developer into the codebase. 
 * Negotiations between new and the previous developer. 
 * Preparation of documentation:
-* 1. Docstrings in all modules
-* 2. Readme file in main modules
-* 3. Client-server block scheme of product
+* 1. Adding docstrings in all modules
+* 2. Preparing Readme files in main modules
+* 3. Creating client-server block scheme of product
 * 4. Setting up automatic documentation assembly from docstrings (working on..)
