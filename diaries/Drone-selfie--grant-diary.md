@@ -5,7 +5,7 @@
 > Only the GitHub account, which is responsible for the pull request of the accepted proposal is allowed to submit diary.
 
 * **Project Name:** Drone selfie
-* **Proposal**: [proposal](https://github.com/airalab/robonomics-grant-program/tree/main/proposals/ds.md)
+* **Proposal**: [here](https://github.com/airalab/robonomics-grant-program/tree/main/proposals/ds.md)
 
 ---
 
@@ -20,3 +20,10 @@
 ## Grant Diary no. 1
 
 * **Date**: 08 April 2021
+* Immersion of the developer into the codebase. 
+* Negotiations between new and the previous developer. 
+* Preparation of documentation:
+* 1. Docstrings in all modules
+* 2. Readme file in main modules
+* 3. Client-server block scheme of product
+* 4. Setting up automatic documentation assembly from docstrings (working on..)
