@@ -4,8 +4,8 @@
 
 > Only the GitHub account, which is responsible for the pull request of the accepted proposal is allowed to submit diary.
 
-* **Project Name:** Name of your project goes here
-* **Proposal**: Provide a link to the merged proposal (the `.md` file in the [proposal](https://github.com/airalab/robonomics-grant-program/tree/main/proposals) directory).
+* **Project Name:** Drone selfie
+* **Proposal**: [proposal](https://github.com/airalab/robonomics-grant-program/tree/main/proposals/ds.md)
 
 ---
 
@@ -19,4 +19,4 @@
 
 ## Grant Diary no. 1
 
-* **Date**: XX.XX.2021
+* **Date**: 08 April 2021
