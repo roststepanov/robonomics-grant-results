@@ -28,7 +28,9 @@
 * Writing unit tests for all server modules
 * Started writing integration tests
 * Personal account layout
-* 
+
+## Grant Diary no. 3
+
 * **Date**: 06 May 2022
 * Preparing possibilities of quick changes and additions in layout of the personal account
 * Launch test personal cabinet  
