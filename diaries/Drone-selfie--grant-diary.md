@@ -37,3 +37,4 @@
 * Immersion frontend developer in existing personal account code
 * Creating server for human tests
 * Write script of automatic deployment to work server with passing unit tests, integration tests and human tests on test server
+
