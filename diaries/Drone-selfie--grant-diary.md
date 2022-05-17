@@ -38,3 +38,9 @@
 * Creating server for human tests
 * Write script of automatic deployment to work server with passing unit tests, integration tests and human tests on test server
 
+## Grant Diary no. 4
+* **Date**: 20 May 2022
+* Creating a database structure for the exchange of personal account information between the server and the web form
+* Set up universal mechanism to send users their content via any mail services, previously sending was possible only through Google Mail
+* Adding libraries for testing the code for the purity of writing and compliance with pep8 standards and automatic code verification before committing
+* 
